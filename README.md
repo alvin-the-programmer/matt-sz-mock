@@ -11,7 +11,7 @@ $ npm run dev
 Deploy the react app dev server. Defaults to localhost:3000.
 
 ```
-$ cd frontent
+$ cd frontend
 $ npm install
 $ npm start
 ```
