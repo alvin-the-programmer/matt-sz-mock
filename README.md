@@ -3,7 +3,7 @@
 Spin up the api backend in dev mode. Defaults to localhost:3001.
 
 ```
-$ cd message-board-api
+$ cd backend
 $ npm install
 $ npm run dev
 ```
@@ -11,7 +11,7 @@ $ npm run dev
 Deploy the react app dev server. Defaults to localhost:3000.
 
 ```
-$ cd message-board-api
+$ cd frontent
 $ npm install
 $ npm start
 ```
